@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/khariharan2304-cmyk/projects/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/0093-restore-ip-addresses/) | Medium |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -119,4 +120,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/khariharan2304-cmyk/projects/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/khariharan2304-cmyk/projects/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/0093-restore-ip-addresses/) | Medium |
 <!---LeetCode Topics End-->
