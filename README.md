@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/khariharan2304-cmyk/projects/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/khariharan2304-cmyk/projects/tree/main/0086-partition-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/khariharan2304-cmyk/projects/tree/main/0086-partition-list/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
