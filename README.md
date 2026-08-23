@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khariharan2304-cmyk/projects/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/khariharan2304-cmyk/projects/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/khariharan2304-cmyk/projects/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/khariharan2304-cmyk/projects/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/khariharan2304-cmyk/projects/tree/main/0055-jump-game/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/khariharan2304-cmyk/projects/tree/main/0048-rotate-image/) | Medium |
 | [0089-gray-code](https://github.com/khariharan2304-cmyk/projects/tree/main/0089-gray-code/) | Medium |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khariharan2304-cmyk/projects/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/khariharan2304-cmyk/projects/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/khariharan2304-cmyk/projects/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0059-spiral-matrix-ii/) | Medium |
 ## Simulation
