@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0090-subsets-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khariharan2304-cmyk/projects/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/khariharan2304-cmyk/projects/tree/main/0048-rotate-image/) | Medium |
 | [0089-gray-code](https://github.com/khariharan2304-cmyk/projects/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/khariharan2304-cmyk/projects/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khariharan2304-cmyk/projects/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Bit Manipulation
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/khariharan2304-cmyk/projects/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/khariharan2304-cmyk/projects/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -151,4 +155,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
