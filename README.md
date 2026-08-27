@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0626-exchange-seats](https://github.com/khariharan2304-cmyk/projects/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/khariharan2304-cmyk/projects/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/khariharan2304-cmyk/projects/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1158-market-analysis-i](https://github.com/khariharan2304-cmyk/projects/tree/main/1158-market-analysis-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
