@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0185-department-top-three-salaries](https://github.com/khariharan2304-cmyk/projects/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0262-trips-and-users](https://github.com/khariharan2304-cmyk/projects/tree/main/0262-trips-and-users/) | Hard |
 | [0550-game-play-analysis-iv](https://github.com/khariharan2304-cmyk/projects/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/khariharan2304-cmyk/projects/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
