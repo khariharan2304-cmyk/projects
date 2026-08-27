@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1174-immediate-food-delivery-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/khariharan2304-cmyk/projects/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/khariharan2304-cmyk/projects/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/khariharan2304-cmyk/projects/tree/main/1211-queries-quality-and-percentage/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
