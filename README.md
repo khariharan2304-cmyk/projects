@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0601-human-traffic-of-stadium](https://github.com/khariharan2304-cmyk/projects/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/khariharan2304-cmyk/projects/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/khariharan2304-cmyk/projects/tree/main/0608-tree-node/) | Medium |
+| [0626-exchange-seats](https://github.com/khariharan2304-cmyk/projects/tree/main/0626-exchange-seats/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
