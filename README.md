@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/khariharan2304-cmyk/projects/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/khariharan2304-cmyk/projects/tree/main/0608-tree-node/) | Medium |
 | [0626-exchange-seats](https://github.com/khariharan2304-cmyk/projects/tree/main/0626-exchange-seats/) | Medium |
+| [1045-customers-who-bought-all-products](https://github.com/khariharan2304-cmyk/projects/tree/main/1045-customers-who-bought-all-products/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
