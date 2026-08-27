@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1070-product-sales-analysis-iii](https://github.com/khariharan2304-cmyk/projects/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1158-market-analysis-i](https://github.com/khariharan2304-cmyk/projects/tree/main/1158-market-analysis-i/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/khariharan2304-cmyk/projects/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1174-immediate-food-delivery-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
