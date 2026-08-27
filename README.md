@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/khariharan2304-cmyk/projects/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/khariharan2304-cmyk/projects/tree/main/0177-nth-highest-salary/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
