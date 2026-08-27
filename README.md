@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/khariharan2304-cmyk/projects/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0585-investments-in-2016](https://github.com/khariharan2304-cmyk/projects/tree/main/0585-investments-in-2016/) | Medium |
 | [0601-human-traffic-of-stadium](https://github.com/khariharan2304-cmyk/projects/tree/main/0601-human-traffic-of-stadium/) | Hard |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/khariharan2304-cmyk/projects/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
