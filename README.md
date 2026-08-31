@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/khariharan2304-cmyk/projects/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/khariharan2304-cmyk/projects/tree/main/1393-capital-gainloss/) | Medium |
 | [1527-patients-with-a-condition](https://github.com/khariharan2304-cmyk/projects/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/khariharan2304-cmyk/projects/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
