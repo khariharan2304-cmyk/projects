@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-recyclable-and-low-fat-products](https://github.com/khariharan2304-cmyk/projects/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/khariharan2304-cmyk/projects/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/khariharan2304-cmyk/projects/tree/main/1795-rearrange-products-table/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/khariharan2304-cmyk/projects/tree/main/1890-the-latest-login-in-2020/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
