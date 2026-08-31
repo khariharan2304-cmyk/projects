@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1934-confirmation-rate](https://github.com/khariharan2304-cmyk/projects/tree/main/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/khariharan2304-cmyk/projects/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/khariharan2304-cmyk/projects/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [3421-find-students-who-improved](https://github.com/khariharan2304-cmyk/projects/tree/main/3421-find-students-who-improved/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
