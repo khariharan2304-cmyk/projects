@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-average-time-of-process-per-machine](https://github.com/khariharan2304-cmyk/projects/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/khariharan2304-cmyk/projects/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/khariharan2304-cmyk/projects/tree/main/1683-invalid-tweets/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/khariharan2304-cmyk/projects/tree/main/1693-daily-leads-and-partners/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
