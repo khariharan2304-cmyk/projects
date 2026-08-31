@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1978-employees-whose-manager-left-the-company](https://github.com/khariharan2304-cmyk/projects/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [3421-find-students-who-improved](https://github.com/khariharan2304-cmyk/projects/tree/main/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/khariharan2304-cmyk/projects/tree/main/3436-find-valid-emails/) | Easy |
+| [3451-find-invalid-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
