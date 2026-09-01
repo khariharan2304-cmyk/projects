@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/khariharan2304-cmyk/projects/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/khariharan2304-cmyk/projects/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/khariharan2304-cmyk/projects/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khariharan2304-cmyk/projects/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/0093-restore-ip-addresses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khariharan2304-cmyk/projects/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/khariharan2304-cmyk/projects/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/khariharan2304-cmyk/projects/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khariharan2304-cmyk/projects/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khariharan2304-cmyk/projects/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -323,4 +325,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/khariharan2304-cmyk/projects/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
