@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/khariharan2304-cmyk/projects/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khariharan2304-cmyk/projects/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/khariharan2304-cmyk/projects/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khariharan2304-cmyk/projects/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/khariharan2304-cmyk/projects/tree/main/0055-jump-game/) | Medium |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khariharan2304-cmyk/projects/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
 | Problem Name | Difficulty |
