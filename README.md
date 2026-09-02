@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khariharan2304-cmyk/projects/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/khariharan2304-cmyk/projects/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0091-decode-ways](https://github.com/khariharan2304-cmyk/projects/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/0093-restore-ip-addresses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khariharan2304-cmyk/projects/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khariharan2304-cmyk/projects/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/khariharan2304-cmyk/projects/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/khariharan2304-cmyk/projects/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/khariharan2304-cmyk/projects/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khariharan2304-cmyk/projects/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
