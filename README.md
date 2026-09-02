@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/khariharan2304-cmyk/projects/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khariharan2304-cmyk/projects/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/khariharan2304-cmyk/projects/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/khariharan2304-cmyk/projects/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khariharan2304-cmyk/projects/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khariharan2304-cmyk/projects/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khariharan2304-cmyk/projects/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -337,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
