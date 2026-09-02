@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/khariharan2304-cmyk/projects/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/khariharan2304-cmyk/projects/tree/main/0037-sudoku-solver/) | Hard |
+| [0041-first-missing-positive](https://github.com/khariharan2304-cmyk/projects/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/khariharan2304-cmyk/projects/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/khariharan2304-cmyk/projects/tree/main/0053-maximum-subarray/) | Medium |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khariharan2304-cmyk/projects/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/khariharan2304-cmyk/projects/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0037-sudoku-solver](https://github.com/khariharan2304-cmyk/projects/tree/main/0037-sudoku-solver/) | Hard |
+| [0041-first-missing-positive](https://github.com/khariharan2304-cmyk/projects/tree/main/0041-first-missing-positive/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/khariharan2304-cmyk/projects/tree/main/0874-walking-robot-simulation/) | Medium |
