@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/khariharan2304-cmyk/projects/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/khariharan2304-cmyk/projects/tree/main/0060-permutation-sequence/) | Hard |
 | [0089-gray-code](https://github.com/khariharan2304-cmyk/projects/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/khariharan2304-cmyk/projects/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0396-rotate-function](https://github.com/khariharan2304-cmyk/projects/tree/main/0396-rotate-function/) | Medium |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/khariharan2304-cmyk/projects/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/khariharan2304-cmyk/projects/tree/main/0044-wildcard-matching/) | Hard |
+| [0060-permutation-sequence](https://github.com/khariharan2304-cmyk/projects/tree/main/0060-permutation-sequence/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
