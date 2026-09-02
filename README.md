@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khariharan2304-cmyk/projects/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/khariharan2304-cmyk/projects/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/khariharan2304-cmyk/projects/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/khariharan2304-cmyk/projects/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/khariharan2304-cmyk/projects/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khariharan2304-cmyk/projects/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/khariharan2304-cmyk/projects/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/khariharan2304-cmyk/projects/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
