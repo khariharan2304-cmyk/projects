@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/khariharan2304-cmyk/projects/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khariharan2304-cmyk/projects/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khariharan2304-cmyk/projects/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1861-rotating-the-box](https://github.com/khariharan2304-cmyk/projects/tree/main/1861-rotating-the-box/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/khariharan2304-cmyk/projects/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/khariharan2304-cmyk/projects/tree/main/0055-jump-game/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khariharan2304-cmyk/projects/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khariharan2304-cmyk/projects/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/khariharan2304-cmyk/projects/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/0075-sort-colors/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khariharan2304-cmyk/projects/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/khariharan2304-cmyk/projects/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
