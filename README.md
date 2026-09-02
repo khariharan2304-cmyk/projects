@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khariharan2304-cmyk/projects/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khariharan2304-cmyk/projects/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/khariharan2304-cmyk/projects/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khariharan2304-cmyk/projects/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/khariharan2304-cmyk/projects/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/khariharan2304-cmyk/projects/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khariharan2304-cmyk/projects/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/khariharan2304-cmyk/projects/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/0075-sort-colors/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/khariharan2304-cmyk/projects/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Quicksort
