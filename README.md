@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/khariharan2304-cmyk/projects/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khariharan2304-cmyk/projects/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/khariharan2304-cmyk/projects/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/khariharan2304-cmyk/projects/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/khariharan2304-cmyk/projects/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/khariharan2304-cmyk/projects/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/0093-restore-ip-addresses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khariharan2304-cmyk/projects/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1871-jump-game-vii](https://github.com/khariharan2304-cmyk/projects/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/khariharan2304-cmyk/projects/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/khariharan2304-cmyk/projects/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/khariharan2304-cmyk/projects/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/khariharan2304-cmyk/projects/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [2615-sum-of-distances](https://github.com/khariharan2304-cmyk/projects/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/khariharan2304-cmyk/projects/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [1871-jump-game-vii](https://github.com/khariharan2304-cmyk/projects/tree/main/1871-jump-game-vii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khariharan2304-cmyk/projects/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
