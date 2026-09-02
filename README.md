@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/khariharan2304-cmyk/projects/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/khariharan2304-cmyk/projects/tree/main/2615-sum-of-distances/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khariharan2304-cmyk/projects/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/khariharan2304-cmyk/projects/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/khariharan2304-cmyk/projects/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khariharan2304-cmyk/projects/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/khariharan2304-cmyk/projects/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2615-sum-of-distances](https://github.com/khariharan2304-cmyk/projects/tree/main/2615-sum-of-distances/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/khariharan2304-cmyk/projects/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/khariharan2304-cmyk/projects/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khariharan2304-cmyk/projects/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khariharan2304-cmyk/projects/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
