@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khariharan2304-cmyk/projects/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/khariharan2304-cmyk/projects/tree/main/0037-sudoku-solver/) | Hard |
+| [0052-n-queens-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/khariharan2304-cmyk/projects/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/khariharan2304-cmyk/projects/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0090-subsets-ii/) | Medium |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/khariharan2304-cmyk/projects/tree/main/0037-sudoku-solver/) | Hard |
+| [0052-n-queens-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0052-n-queens-ii/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
