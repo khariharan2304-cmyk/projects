@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/khariharan2304-cmyk/projects/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/khariharan2304-cmyk/projects/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khariharan2304-cmyk/projects/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
