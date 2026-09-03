@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3691-maximum-total-subarray-value-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khariharan2304-cmyk/projects/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/khariharan2304-cmyk/projects/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khariharan2304-cmyk/projects/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/khariharan2304-cmyk/projects/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -537,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khariharan2304-cmyk/projects/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -570,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3161-block-placement-queries](https://github.com/khariharan2304-cmyk/projects/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
