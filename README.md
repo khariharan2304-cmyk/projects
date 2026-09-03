@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/khariharan2304-cmyk/projects/tree/main/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khariharan2304-cmyk/projects/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/khariharan2304-cmyk/projects/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khariharan2304-cmyk/projects/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
 | Problem Name | Difficulty |
