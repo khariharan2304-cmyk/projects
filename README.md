@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/khariharan2304-cmyk/projects/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khariharan2304-cmyk/projects/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/khariharan2304-cmyk/projects/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khariharan2304-cmyk/projects/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1861-rotating-the-box](https://github.com/khariharan2304-cmyk/projects/tree/main/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/khariharan2304-cmyk/projects/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/khariharan2304-cmyk/projects/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/khariharan2304-cmyk/projects/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/khariharan2304-cmyk/projects/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/0075-sort-colors/) | Medium |
 | [1340-jump-game-v](https://github.com/khariharan2304-cmyk/projects/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khariharan2304-cmyk/projects/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1840-maximum-building-height](https://github.com/khariharan2304-cmyk/projects/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/khariharan2304-cmyk/projects/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/khariharan2304-cmyk/projects/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
