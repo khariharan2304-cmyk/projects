@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/khariharan2304-cmyk/projects/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khariharan2304-cmyk/projects/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/khariharan2304-cmyk/projects/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/khariharan2304-cmyk/projects/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/khariharan2304-cmyk/projects/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1861-rotating-the-box](https://github.com/khariharan2304-cmyk/projects/tree/main/1861-rotating-the-box/) | Medium |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/khariharan2304-cmyk/projects/tree/main/0055-jump-game/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khariharan2304-cmyk/projects/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/khariharan2304-cmyk/projects/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1927-sum-game](https://github.com/khariharan2304-cmyk/projects/tree/main/1927-sum-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/khariharan2304-cmyk/projects/tree/main/2126-destroying-asteroids/) | Medium |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/khariharan2304-cmyk/projects/tree/main/0075-sort-colors/) | Medium |
 | [1340-jump-game-v](https://github.com/khariharan2304-cmyk/projects/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/khariharan2304-cmyk/projects/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/khariharan2304-cmyk/projects/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/khariharan2304-cmyk/projects/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/khariharan2304-cmyk/projects/tree/main/2126-destroying-asteroids/) | Medium |
@@ -560,4 +563,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/khariharan2304-cmyk/projects/tree/main/3161-block-placement-queries/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/khariharan2304-cmyk/projects/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
