@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/khariharan2304-cmyk/projects/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0396-rotate-function](https://github.com/khariharan2304-cmyk/projects/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/khariharan2304-cmyk/projects/tree/main/0788-rotated-digits/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/khariharan2304-cmyk/projects/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khariharan2304-cmyk/projects/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/khariharan2304-cmyk/projects/tree/main/1340-jump-game-v/) | Hard |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/khariharan2304-cmyk/projects/tree/main/0044-wildcard-matching/) | Hard |
 | [0091-decode-ways](https://github.com/khariharan2304-cmyk/projects/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khariharan2304-cmyk/projects/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khariharan2304-cmyk/projects/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/khariharan2304-cmyk/projects/tree/main/1871-jump-game-vii/) | Medium |
