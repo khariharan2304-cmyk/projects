@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/khariharan2304-cmyk/projects/tree/main/0044-wildcard-matching/) | Hard |
 | [0091-decode-ways](https://github.com/khariharan2304-cmyk/projects/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/khariharan2304-cmyk/projects/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/khariharan2304-cmyk/projects/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/khariharan2304-cmyk/projects/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/khariharan2304-cmyk/projects/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/khariharan2304-cmyk/projects/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khariharan2304-cmyk/projects/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/khariharan2304-cmyk/projects/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1306-jump-game-iii](https://github.com/khariharan2304-cmyk/projects/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/khariharan2304-cmyk/projects/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
