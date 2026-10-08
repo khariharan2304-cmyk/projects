@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/khariharan2304-cmyk/projects/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/khariharan2304-cmyk/projects/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/khariharan2304-cmyk/projects/tree/main/1340-jump-game-v/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1871-jump-game-vii](https://github.com/khariharan2304-cmyk/projects/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/khariharan2304-cmyk/projects/tree/main/1872-stone-game-viii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/khariharan2304-cmyk/projects/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khariharan2304-cmyk/projects/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0337-house-robber-iii](https://github.com/khariharan2304-cmyk/projects/tree/main/0337-house-robber-iii/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/khariharan2304-cmyk/projects/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khariharan2304-cmyk/projects/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khariharan2304-cmyk/projects/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khariharan2304-cmyk/projects/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0337-house-robber-iii](https://github.com/khariharan2304-cmyk/projects/tree/main/0337-house-robber-iii/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/khariharan2304-cmyk/projects/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -418,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/khariharan2304-cmyk/projects/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0337-house-robber-iii](https://github.com/khariharan2304-cmyk/projects/tree/main/0337-house-robber-iii/) | Medium |
 | [1306-jump-game-iii](https://github.com/khariharan2304-cmyk/projects/tree/main/1306-jump-game-iii/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/khariharan2304-cmyk/projects/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/khariharan2304-cmyk/projects/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -690,4 +695,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/khariharan2304-cmyk/projects/tree/main/0337-house-robber-iii/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/khariharan2304-cmyk/projects/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
